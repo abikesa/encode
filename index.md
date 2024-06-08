@@ -1,0 +1,6 @@
+- [Multivariable](https://www.nature.com/articles/d41591-023-00072-0)
+   - mRNA-4157 is not a single drug, but is instead a personalized mRNA that `encodes` up to 34 different patient-specific neoantigens
+- Encodes the ontology of "the enemy" and tailors the bodies response in a highly specific manner
+   - Vectors carried vaccines in the past
+- Decoded key aspects of this process without the drama and risk that comes with the viral veector
+   - Solid lipid nano particles  
